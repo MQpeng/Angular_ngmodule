@@ -1,2 +1,3 @@
-# Angular_ngmodule
-code for studying NgModule
+### Angular Documentation Example 
+
+NgModule Final
